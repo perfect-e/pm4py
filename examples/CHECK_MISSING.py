@@ -13,3 +13,4 @@ if __name__ == "__main__":
     for f in files:
         if f not in contents_ex_everything:
             print(f)
+#open execute everything
